@@ -1,0 +1,12 @@
+Steve's Pain(t) Version 0.0.final -  11/04/2020
+
+New features: NONE since last sprint!
+
+Known issues:
+  * Active label cannot be reset to show non-activity
+  * Tabs do not work
+  * Autosave incomplete
+
+Links:
+GitHub - https://github.com/stevehelmSH3/Paint/blob/main/paint.java
+Demo - https://youtu.be/hxpuaI-iJJI
